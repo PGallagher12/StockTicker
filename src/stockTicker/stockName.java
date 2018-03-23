@@ -1,4 +1,4 @@
-package softwareengineerclass;
+package stockTicker;
 
 /**
  *
